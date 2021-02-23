@@ -9,6 +9,7 @@
   </a>
 </p>
 
+
 ### How I work
  -
 
@@ -21,8 +22,8 @@
 </p>
 
 ### Get In Touch
-- Twitter : https://twitter.com/
-- Blog: https://netlify.app
+- Instagram : https://Instagram.com/basiit_abdul
+- Blog: https://netlify.app/
 
 <p >&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasid10053&show_icons=true" alt="basiit_abdul" />

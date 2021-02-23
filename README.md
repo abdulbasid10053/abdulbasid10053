@@ -10,12 +10,8 @@
 </p>
 
 ### How I work
- ;
+ -
 
-
-### Get In Touch
-- Twitter : https://twitter.com/
-- Blog: https://netlify.app
 ### Technologies
 <p>
     <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="css" width="40" height="40"/>
@@ -23,6 +19,10 @@
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>     
 </p>
+
+### Get In Touch
+- Twitter : https://twitter.com/
+- Blog: https://netlify.app
 
 <p >&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasid10053&show_icons=true" alt="basiit_abdul" />

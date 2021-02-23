@@ -4,34 +4,27 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=naufaldi" alt="naufaldi" /> </p>
 
 <p align="center">
-  <a href="https://github.com/naufaldi?tab=followers">
+  <a href="https://github.com/abdulbasid10053?tab=followers">
     <img src="https://img.shields.io/github/followers/naufaldi?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/naufaldi">
+  <a href="http://twitter.com/n">
     <img src="https://img.shields.io/twitter/follow/f2aldi?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
 ### Personal Stuff
-- 🔭 I’m currently working on [Esteh Creative](https://esteh.id/);
-- 👨🏼‍💻 **Open for Freelance Project** slicing / convert design to a website
-- 👨‍🏫 Mentor Frontend Stuff at [MOFON](https://mentee.naufaldi.xyz)
-- 💻 All of my projects are available at [https://naufaldi.xyz/](https://naufaldi.xyz/project/)
-- 💬 Ask me about Javascript, CSS, UX Reasearch, and Scrum, I am happy to help;
-- 📝 I regulary write articles on [https://blog.cerita-faldi.xyz/](https://blog.cerita-faldi.xyz/)
-- 📫 How to reach me: [@f2aldi](https://twitter.com/f2aldi) or email me at **naufaldi.rafif@gmail.com**  ;
-- 
+ ;
+
+
 ### Get In Touch
 - Twitter : https://twitter.com/
 - Blog: https://netlify.app
 ### Technologies
 <p>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>     
+    <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg" alt="css" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>     
 </p>
 
 

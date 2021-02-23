@@ -20,7 +20,10 @@
 - 💬 Ask me about Javascript, CSS, UX Reasearch, and Scrum, I am happy to help;
 - 📝 I regulary write articles on [https://blog.cerita-faldi.xyz/](https://blog.cerita-faldi.xyz/)
 - 📫 How to reach me: [@f2aldi](https://twitter.com/f2aldi) or email me at **naufaldi.rafif@gmail.com**  ;
-
+- 
+### Get In Touch
+- Twitter : https://twitter.com/
+- Blog: https://netlify.app
 ### Technologies
 <p>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -35,7 +38,7 @@
 ### Github Stats
 
 <p align="center">&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasid10053&show_icons=true" alt="naufaldi" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasid10053&show_icons=true" alt="basiit_abdul" />
 </p>
 
 <p align="center">

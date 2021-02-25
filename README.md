@@ -27,5 +27,7 @@
 
 <p >&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasid10053&show_icons=true" alt="basiit_abdul" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasid10053&show_icons=true&layout=compact" alt="basiit_abdul" />
+</p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulbasid10053&show_icons=true&layout=compact" alt="basiit_abdul" />
 </p>

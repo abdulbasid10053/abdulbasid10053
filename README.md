@@ -23,8 +23,7 @@
 
 ### Get In Touch
 - Instagram : https://Instagram.com/basiit_abdul
-- Blog: https://netlify.app/
-
+- Blog: basiit-abdul.netlify.app
 <p >&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasid10053&show_icons=true" alt="basiit_abdul" />
 </p>

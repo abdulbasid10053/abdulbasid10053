@@ -24,6 +24,8 @@
 ### Get In Touch
 - Instagram : https://Instagram.com/basiit_abdul
 - Blog: https://basiit-abdul.netlify.app
+- Blog: https://babas404.my.id
+
 <p >&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasid10053&show_icons=true" alt="basiit_abdul" />
 </p>
